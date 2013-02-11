@@ -11,6 +11,10 @@
             echo "weiter gehts.</br>";
             echo date("t")."</br>";
             echo date("Y")."<br>";
+            function quadrat($zahl){
+                return $zahl * $zahl;                
+            }
+            echo quadrat(4);
         ?>
     </body>
 </html>
