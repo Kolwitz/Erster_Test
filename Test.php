@@ -10,6 +10,7 @@
             echo "Mein erster Test.</br>";
             echo "weiter gehts.</br>";
             echo date("t")."</br>";
+            echo date("Y")."<br>";
         ?>
     </body>
 </html>
