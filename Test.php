@@ -6,8 +6,10 @@
     </head>
     <body>
         <?php
-            echo 'Mein erster Test';
-            echo "weiter gehts";
+         
+            echo "Mein erster Test.</br>";
+            echo "weiter gehts.</br>";
+            echo date("t")."</br>";
         ?>
     </body>
 </html>
