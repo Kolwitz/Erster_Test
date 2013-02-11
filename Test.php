@@ -7,6 +7,7 @@
     <body>
         <?php
             echo 'Mein erster Test';
+            echo "weiter gehts";
         ?>
     </body>
 </html>
